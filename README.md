@@ -5,7 +5,7 @@
 Python
 
 # Trang web tra điểm
-diemthi.hcm.edu.vn
+diemthi.hcm.edu.vn - hiện không thể dùng được nữa do trang đã bị đổi chức năng thành tra cứu điểm thi HSG.
 
 # Tham khảo
 Dũng Lại Lập Trình (phần subprocess)
